@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm omicr0n. I usually work on python and nodejs languages.
+Hello, I'm omicr0n. i'm dealing with hacking and software.
 
 
 # 💻 Tech Stack:
