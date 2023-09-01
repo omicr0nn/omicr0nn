@@ -15,7 +15,7 @@ Hello, I'm omicr0n. i'm dealing with hacking and software.
 ---
 [![](https://visitcount.itsvg.in/api?id=omicr0nn&icon=3&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 🫶 Support:
 
   <p><a href="https://www.buymeacoffee.com/omicr0n"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omicr0n" /></a></p><br><br>
 
