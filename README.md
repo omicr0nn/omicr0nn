@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm omicr0n. i'm dealing with hacking and software.
+### Hello, I'm omicr0n. i'm dealing with hacking and software.
 
 
 <h3 align="left">🗄️ Languages and Tools:</h3>
