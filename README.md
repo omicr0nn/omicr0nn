@@ -3,7 +3,7 @@
 
 
 <h3 align="left">🗄️ Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/omicr0nn"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,azure,gcp,replit,py,html,css,bootstrap,javascript,nodejs,cs,postman,git,github,stackoverflow,mongodb,mysql,selenium,sqlite,svg,netlify,discord,bots,heroku,linkedin,linux"> </a> </p>
+<p align="left"> <a href="https://github.com/omicr0nn"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,azure,gcp,replit,py,html,css,bootstrap,javascript,nodejs,cs,postman,git,github,stackoverflow,mongodb,mysql,selenium,sqlite,svg,netlify,heroku,discord,bots,linkedin,linux"> </a> </p>
 
 
 # 📊 GitHub Stats:
