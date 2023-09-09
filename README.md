@@ -16,7 +16,6 @@
 
   ## 🫶 Support:
 
-  <p><a href="https://www.buymeacoffee.com/omicr0n"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omicr0n" /></a></p><br><br>
   <a href="https://www.buymeacoffee.com/omicr0n" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
   
